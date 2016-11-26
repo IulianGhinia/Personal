@@ -1,0 +1,10 @@
+{
+  "ServerUri": "http:\\\\localhost:9000",
+  "ProjectKey": "TFSConnector",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "cs-sonar-way-45068",
+      "ProfileTimestamp": "2016-11-26T19:49:33+02:00"
+    }
+  }
+}
